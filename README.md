@@ -6,6 +6,8 @@ Id.:  000570378
 ---
 # Evaluación
 
+**Descripción del contenido del repositorio:** Este repositorio hace parte de un proyecto o trabajo académico para el curso de Fundamentos de Programación. En este, podrá encontrar 5 carpetas y 2 archivos (cada carpeta tiene sus propios archivos), que son parte o fueron creados acorde con la guía de trabajo para este proyecto. La carpeta "docs" contiene archivos Markdown acerca de lo aprendido en el proyecto. En la carpeta "images" podrá encontrar imagenes de soporte de este trabajo. Y, en la carpeta "src", encontrará un script de Python que contiene un código ejemplo proporcionado por el profesor. 
+
 ### **Descripción de la Actividad:** 
 
 El objetivo de esta actividad es crear y estructurar un proyecto de programación utilizando Git y GitHub. Aunque el código fuente será un componente mínimo, el enfoque estará en la organización del proyecto y la documentación de lo aprendido sobre los siguientes temas:
@@ -81,3 +83,5 @@ El objetivo de esta actividad es crear y estructurar un proyecto de programació
 7. **Entrega:**
     - Sube los cambios en tu proyecto al repositorio remoto en GitHub.
     - Asegúrate de que toda la documentación esté completa y correctamente estructurada.
+
+
