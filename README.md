@@ -6,8 +6,18 @@ Id.:  000570378
 ---
 # Evaluación
 
-**Descripción del contenido del repositorio:** Este repositorio hace parte de un proyecto o trabajo académico para el curso de Fundamentos de Programación. En este, podrá encontrar 5 carpetas y 2 archivos (cada carpeta tiene sus propios archivos), que son parte o fueron creados acorde con la guía de trabajo para este proyecto. La carpeta "docs" contiene archivos Markdown acerca de lo aprendido en el proyecto. En la carpeta "images" podrá encontrar imagenes de soporte de este trabajo. Y, en la carpeta "src", encontrará un script de Python que contiene un código ejemplo proporcionado por el profesor. 
+## **Descripción del contenido del repositorio:**
+Este repositorio hace parte de un proyecto o trabajo académico para el curso de Fundamentos de Programación. En este, podrá encontrar 5 carpetas y 2 archivos (cada carpeta tiene sus propios archivos), que son parte o fueron creados acorde con la guía de trabajo para este proyecto. La carpeta "docs" contiene archivos Markdown acerca de lo aprendido en el proyecto. En la carpeta "images" podrá encontrar imagenes de soporte de este trabajo. Y, en la carpeta "src", encontrará un script de Python que contiene un código ejemplo proporcionado por el profesor. 
+## **¿Cómo se clona y ejecuta un proyecto?**
+Para clonar y ejecutar un proyecto, seguimos los siguientes pasos:
+- **Si el proyecto es ajeno:** buscamos el repositorio o proyecto a clonar en GitHub, y copiamos su URL desde la página de GitHub. Una vez hecho esto, abrimos GitBash en el directorio a donde queremos clonar el proyecto en nuestro dispositivo local, luego utilizamos el comando "git clone" seguido de la URL que copiamos. Finalmente, esto hace que el Git descargue el proyecto al repositorio seleccionado, y así podemos trabajar de manera **local** en un proyecto ajeno. Es importante resaltar que no se pueden hacer commits al repositorio original en la nube si no tenemos los permisos necesarios. De ser así, cualquier cambio que realicemos se guardará únicamente en nuestro repositorio local.
+- **Si es nuestro proyecto:** después de haber realizado algún cambio en el repositorio remoto, entramos a GitBash y usamos el comando "git status" (debemos abrir Git dentro del repositorio en el cual estamos trabajando), el cual nos mostrará que nuestro repositorio local está "atrasado", debido a las modificaciones en el repositorio remoto. Para que estos cambios se vean reflejados, sencillamente utilizamos el comando "git pull", y esto descargará los cambios desde el repositorio remoto al repositorio local en nuestro dispositivo.
 
+# Tabla de contenido
+- [Creación y uso de un repositorio local](docs/repositorio_local.md)
+- [Creación y uso de un repositorio remoto](docs/repositorio_remoto.md)
+- [Uso de la consola en Git](docs/uso_consola.md)
+    
 ### **Descripción de la Actividad:** 
 
 El objetivo de esta actividad es crear y estructurar un proyecto de programación utilizando Git y GitHub. Aunque el código fuente será un componente mínimo, el enfoque estará en la organización del proyecto y la documentación de lo aprendido sobre los siguientes temas:
