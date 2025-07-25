@@ -1,0 +1,25 @@
+# Ignorar archivos y carpetas generados automáticamente
+
+# Archivos de Python
+*.pyc
+__pycache__/
+
+# Entornos virtuales
+venv/
+.env/
+
+# Archivos de configuración de usuario
+*.env
+
+# Archivos de sistema operativo
+.DS_Store
+Thumbs.db
+
+# Carpeta de dependencias de Node.js (si aplica)
+node_modules/
+
+# Archivos temporales
+*.log
+*.tmp
+
+# Carpeta de imágenes generadas automáticamente (si aplica)
