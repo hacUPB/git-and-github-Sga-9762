@@ -1,5 +1,7 @@
 # TABLA DE CALIFICACIÓN
-### Link del repositorio a calificar: https://github.com/hacUPB/git-and-github-JoeThz
+### Nombre del estudiante calificado: Joe Frazer Tamayo Hernández
+### Enlace del repositorio calificado: https://github.com/hacUPB/git-and-github-JoeThz
+### Calificado por: Juan Alejandro Solórzano
 
 | Criterio de evaluación | Calificación | Justificación |
 | -----------------------|--------------| -------------- |
